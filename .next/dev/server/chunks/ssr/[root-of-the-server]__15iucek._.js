@@ -662,470 +662,478 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/dist/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.js [app-rsc] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$graduation$2d$cap$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__GraduationCap$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/graduation-cap.mjs [app-rsc] (ecmascript) <export default as GraduationCap>");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$code$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Code$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/code.mjs [app-rsc] (ecmascript) <export default as Code>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$check$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle2$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/circle-check.mjs [app-rsc] (ecmascript) <export default as CheckCircle2>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$briefcase$2d$business$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__BriefcaseBusiness$3e$__ = __turbopack_context__.i("[project]/node_modules/lucide-react/dist/esm/icons/briefcase-business.mjs [app-rsc] (ecmascript) <export default as BriefcaseBusiness>");
 ;
 ;
 function Experience() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
         id: "experience",
-        className: "w-full max-w-[1440px] 2xl:max-w-[1600px] mx-auto py-24 px-6 sm:px-8 lg:px-12 xl:px-16",
+        className: "\n        w-full\n        max-w-[1440px]\n        2xl:max-w-[1600px]\n        mx-auto\n        py-20\n        sm:py-24\n        px-6\n        sm:px-8\n        lg:px-12\n        xl:px-16\n      ",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "mb-14",
+                className: "mb-12 sm:mb-14",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                        className: "text-amber-400 font-mono text-xs uppercase tracking-widest block mb-2",
-                        children: "Journey & Focus"
+                        className: "\n            text-amber-400\n            font-mono\n            text-xs\n            uppercase\n            tracking-widest\n            block\n            mb-2\n          ",
+                        children: "My Journey"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Experience.tsx",
-                        lineNumber: 9,
+                        lineNumber: 30,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                        className: "text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white tracking-tight",
+                        className: "\n            text-3xl\n            sm:text-4xl\n            lg:text-5xl\n            font-extrabold\n            text-white\n            tracking-tight\n          ",
                         children: "Education & Experience"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Experience.tsx",
-                        lineNumber: 12,
+                        lineNumber: 44,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        className: "text-slate-400 text-base sm:text-lg mt-3 max-w-3xl",
-                        children: "Academic background at SPPU and hands-on focus areas in full-stack engineering."
+                        className: "\n            text-slate-400\n            text-base\n            sm:text-lg\n            mt-3\n            max-w-3xl\n            leading-relaxed\n          ",
+                        children: "My journey as a Computer Engineering student and Full Stack Developer, focused on learning modern technologies and building practical web applications."
                     }, void 0, false, {
                         fileName: "[project]/src/components/Experience.tsx",
-                        lineNumber: 15,
+                        lineNumber: 57,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/Experience.tsx",
-                lineNumber: 8,
+                lineNumber: 29,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "grid grid-cols-1 lg:grid-cols-12 gap-10 items-start",
+                className: "\n          grid\n          grid-cols-1\n          lg:grid-cols-12\n          gap-8\n          lg:gap-10\n          items-start\n        ",
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "lg:col-span-6 flex flex-col gap-6",
+                        className: "lg:col-span-6 flex flex-col gap-5",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                className: "text-xl font-bold text-white flex items-center gap-2.5",
+                                className: "\n              text-xl\n              font-bold\n              text-white\n              flex\n              items-center\n              gap-2.5\n            ",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$graduation$2d$cap$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__GraduationCap$3e$__["GraduationCap"], {
-                                        className: "w-5 h-5 text-amber-400"
+                                        className: "\n                w-5\n                h-5\n                text-amber-400\n              "
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 25,
+                                        lineNumber: 105,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "Academic Background"
+                                        children: "Education"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 26,
+                                        lineNumber: 113,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Experience.tsx",
-                                lineNumber: 24,
+                                lineNumber: 95,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                className: "p-8 rounded-2xl bg-slate-900/60 border border-slate-800/80 backdrop-blur-md relative",
+                                className: "\n              p-7\n              sm:p-8\n              rounded-2xl\n              bg-slate-900/60\n              border\n              border-slate-800/80\n              backdrop-blur-md\n              hover:border-slate-700\n              transition-colors\n              duration-300\n            ",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "flex items-center justify-between mb-4",
+                                        className: "\n                flex\n                flex-wrap\n                items-center\n                justify-between\n                gap-3\n                mb-5\n              ",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "px-3.5 py-1 rounded-full bg-amber-400/10 border border-amber-400/30 text-amber-400 text-xs font-semibold",
+                                                className: "\n                  px-3.5\n                  py-1\n                  rounded-full\n                  bg-amber-400/10\n                  border\n                  border-amber-400/30\n                  text-amber-400\n                  text-xs\n                  font-semibold\n                ",
                                                 children: "2024 — Present"
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 31,
+                                                lineNumber: 143,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                className: "text-xs font-mono text-emerald-400 flex items-center gap-1.5",
+                                                className: "\n                  text-xs\n                  font-mono\n                  text-emerald-400\n                  flex\n                  items-center\n                  gap-1.5\n                ",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "w-2 h-2 rounded-full bg-emerald-400 animate-pulse"
+                                                        className: "\n                    w-2\n                    h-2\n                    rounded-full\n                    bg-emerald-400\n                    animate-pulse\n                  "
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 35,
+                                                        lineNumber: 169,
                                                         columnNumber: 17
                                                     }, this),
-                                                    "Active Studies"
+                                                    "Currently Studying"
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 34,
+                                                lineNumber: 159,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 30,
+                                        lineNumber: 133,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                        className: "text-xl font-bold text-white mb-1.5",
-                                        children: "Bachelor of Engineering in Computer Engineering"
+                                        className: "\n                text-xl\n                sm:text-2xl\n                font-bold\n                text-white\n                mb-2\n              ",
+                                        children: "Bachelor of Engineering"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 40,
+                                        lineNumber: 184,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "text-slate-400 text-sm font-medium mb-4",
-                                        children: "Sir Visvesraya Institude Of Nashik"
+                                        className: "\n                text-blue-400\n                text-sm\n                sm:text-base\n                font-medium\n                mb-1\n              ",
+                                        children: "Computer Engineering"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 43,
+                                        lineNumber: 196,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                        className: "text-slate-300 text-sm sm:text-base leading-relaxed mb-6",
-                                        children: "Currently pursuing undergraduate studies in Computer Engineering (Second Year). Deepening foundational knowledge in algorithmic problem solving, software engineering principles, system architectures, and database systems while building production-grade web systems."
+                                        className: "\n                text-slate-400\n                text-sm\n                font-medium\n                mb-5\n              ",
+                                        children: "Sir Visvesvaraya Institute of Technology, Nashik"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 47,
+                                        lineNumber: 208,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        className: "\n                text-slate-300\n                text-sm\n                sm:text-base\n                leading-relaxed\n                mb-6\n              ",
+                                        children: "Currently pursuing Computer Engineering with a strong interest in software development, web technologies, databases, and problem solving. Alongside academics, I focus on building practical applications and improving my full-stack development skills."
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Experience.tsx",
+                                        lineNumber: 220,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "space-y-3 pt-5 border-t border-slate-800",
+                                        className: "\n                space-y-3\n                pt-5\n                border-t\n                border-slate-800\n              ",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center gap-2.5 text-xs sm:text-sm text-slate-300",
+                                                className: "\n                  flex\n                  items-center\n                  gap-2.5\n                  text-xs\n                  sm:text-sm\n                  text-slate-300\n                ",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$check$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle2$3e$__["CheckCircle2"], {
-                                                        className: "w-4 h-4 text-amber-400 shrink-0"
+                                                        className: "\n                    w-4\n                    h-4\n                    text-amber-400\n                    shrink-0\n                  "
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 53,
+                                                        lineNumber: 255,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        children: "Second Year Computer Engineering Curriculum"
+                                                        children: "Computer Engineering & Core CS Fundamentals"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 54,
+                                                        lineNumber: 264,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 52,
+                                                lineNumber: 245,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center gap-2.5 text-xs sm:text-sm text-slate-300",
+                                                className: "\n                  flex\n                  items-center\n                  gap-2.5\n                  text-xs\n                  sm:text-sm\n                  text-slate-300\n                ",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$check$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle2$3e$__["CheckCircle2"], {
-                                                        className: "w-4 h-4 text-amber-400 shrink-0"
+                                                        className: "\n                    w-4\n                    h-4\n                    text-amber-400\n                    shrink-0\n                  "
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 57,
+                                                        lineNumber: 279,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        children: "Core Data Structures & Algorithmic Problem Solving"
+                                                        children: "Data Structures & Algorithmic Problem Solving"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 58,
+                                                        lineNumber: 288,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 56,
+                                                lineNumber: 269,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center gap-2.5 text-xs sm:text-sm text-slate-300",
+                                                className: "\n                  flex\n                  items-center\n                  gap-2.5\n                  text-xs\n                  sm:text-sm\n                  text-slate-300\n                ",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$check$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle2$3e$__["CheckCircle2"], {
-                                                        className: "w-4 h-4 text-amber-400 shrink-0"
+                                                        className: "\n                    w-4\n                    h-4\n                    text-amber-400\n                    shrink-0\n                  "
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 61,
+                                                        lineNumber: 303,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        children: "Relational & Document Database Architectures"
+                                                        children: "Database Management & Backend Fundamentals"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 62,
+                                                        lineNumber: 312,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 60,
+                                                lineNumber: 293,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center gap-2.5 text-xs sm:text-sm text-slate-300",
+                                                className: "\n                  flex\n                  items-center\n                  gap-2.5\n                  text-xs\n                  sm:text-sm\n                  text-slate-300\n                ",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$circle$2d$check$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__CheckCircle2$3e$__["CheckCircle2"], {
-                                                        className: "w-4 h-4 text-amber-400 shrink-0"
+                                                        className: "\n                    w-4\n                    h-4\n                    text-amber-400\n                    shrink-0\n                  "
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 65,
+                                                        lineNumber: 327,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        children: "Computer Networks & Operating Systems Foundations"
+                                                        children: "Web Development & Software Engineering"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 66,
+                                                        lineNumber: 336,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 64,
+                                                lineNumber: 317,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 51,
+                                        lineNumber: 237,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Experience.tsx",
-                                lineNumber: 29,
+                                lineNumber: 117,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Experience.tsx",
-                        lineNumber: 23,
+                        lineNumber: 92,
                         columnNumber: 9
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "lg:col-span-6 flex flex-col gap-6",
+                        className: "lg:col-span-6 flex flex-col gap-5",
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                className: "text-xl font-bold text-white flex items-center gap-2.5",
+                                className: "\n              text-xl\n              font-bold\n              text-white\n              flex\n              items-center\n              gap-2.5\n            ",
                                 children: [
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$code$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Code$3e$__["Code"], {
-                                        className: "w-5 h-5 text-blue-400"
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$briefcase$2d$business$2e$mjs__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__BriefcaseBusiness$3e$__["BriefcaseBusiness"], {
+                                        className: "\n                w-5\n                h-5\n                text-blue-400\n              "
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 75,
+                                        lineNumber: 361,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                        children: "Active Development Focus"
+                                        children: "Development Experience"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 76,
+                                        lineNumber: 369,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Experience.tsx",
-                                lineNumber: 74,
+                                lineNumber: 351,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                 className: "space-y-4",
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "p-6 rounded-2xl bg-slate-900/60 border border-slate-800/80 backdrop-blur-md",
+                                        className: "\n                p-6\n                rounded-2xl\n                bg-slate-900/60\n                border\n                border-slate-800/80\n                backdrop-blur-md\n                hover:border-slate-700\n                hover:bg-slate-900/80\n                transition-all\n                duration-300\n              ",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center justify-between mb-2",
+                                                className: "\n                  flex\n                  items-center\n                  justify-between\n                  gap-3\n                  mb-2\n                ",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                        className: "text-base sm:text-lg font-bold text-white",
-                                                        children: "Full Stack Web Architecture"
+                                                        className: "\n                    text-base\n                    sm:text-lg\n                    font-bold\n                    text-white\n                  ",
+                                                        children: "Full Stack Web Development"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 84,
+                                                        lineNumber: 398,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "text-[11px] font-mono text-slate-400 px-2 py-0.5 rounded bg-slate-800 border border-slate-700",
-                                                        children: "End-to-End"
+                                                        className: "\n                    text-[11px]\n                    font-mono\n                    text-slate-400\n                    px-2\n                    py-0.5\n                    rounded\n                    bg-slate-800\n                    border\n                    border-slate-700\n                  ",
+                                                        children: "MERN"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 87,
+                                                        lineNumber: 409,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 83,
+                                                lineNumber: 389,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-slate-300 text-sm sm:text-base leading-relaxed",
-                                                children: "Architecting complete web systems with clean separation between client-side interfaces and backend API runtimes."
+                                                className: "\n                  text-slate-300\n                  text-sm\n                  sm:text-base\n                  leading-relaxed\n                ",
+                                                children: "Building complete web applications using React, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL with a focus on responsive interfaces and reliable backend APIs."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 91,
+                                                lineNumber: 426,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 82,
+                                        lineNumber: 375,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "p-6 rounded-2xl bg-slate-900/60 border border-slate-800/80 backdrop-blur-md",
+                                        className: "\n                p-6\n                rounded-2xl\n                bg-slate-900/60\n                border\n                border-slate-800/80\n                backdrop-blur-md\n                hover:border-slate-700\n                hover:bg-slate-900/80\n                transition-all\n                duration-300\n              ",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center justify-between mb-2",
+                                                className: "\n                  flex\n                  items-center\n                  justify-between\n                  gap-3\n                  mb-2\n                ",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                        className: "text-base sm:text-lg font-bold text-white",
-                                                        children: "Backend & REST APIs"
+                                                        className: "\n                    text-base\n                    sm:text-lg\n                    font-bold\n                    text-white\n                  ",
+                                                        children: "Backend & API Development"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 99,
+                                                        lineNumber: 464,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "text-[11px] font-mono text-slate-400 px-2 py-0.5 rounded bg-slate-800 border border-slate-700",
-                                                        children: "Node & Express"
+                                                        className: "\n                    text-[11px]\n                    font-mono\n                    text-slate-400\n                    px-2\n                    py-0.5\n                    rounded\n                    bg-slate-800\n                    border\n                    border-slate-700\n                  ",
+                                                        children: "Node.js"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 102,
+                                                        lineNumber: 475,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 98,
+                                                lineNumber: 455,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-slate-300 text-sm sm:text-base leading-relaxed",
-                                                children: "Building resilient server runtimes, structured routing, JWT authentication, and idempotent RESTful endpoints."
+                                                className: "\n                  text-slate-300\n                  text-sm\n                  sm:text-base\n                  leading-relaxed\n                ",
+                                                children: "Developing REST APIs with Node.js and Express.js, implementing authentication, routing, middleware, validation, CRUD operations, and backend integrations."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 106,
+                                                lineNumber: 492,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 97,
+                                        lineNumber: 441,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "p-6 rounded-2xl bg-slate-900/60 border border-slate-800/80 backdrop-blur-md",
+                                        className: "\n                p-6\n                rounded-2xl\n                bg-slate-900/60\n                border\n                border-slate-800/80\n                backdrop-blur-md\n                hover:border-slate-700\n                hover:bg-slate-900/80\n                transition-all\n                duration-300\n              ",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center justify-between mb-2",
+                                                className: "\n                  flex\n                  items-center\n                  justify-between\n                  gap-3\n                  mb-2\n                ",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                        className: "text-base sm:text-lg font-bold text-white",
-                                                        children: "Database Design & Modeling"
+                                                        className: "\n                    text-base\n                    sm:text-lg\n                    font-bold\n                    text-white\n                  ",
+                                                        children: "Database Development"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 114,
+                                                        lineNumber: 530,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "text-[11px] font-mono text-slate-400 px-2 py-0.5 rounded bg-slate-800 border border-slate-700",
-                                                        children: "SQL & NoSQL"
+                                                        className: "\n                    text-[11px]\n                    font-mono\n                    text-slate-400\n                    px-2\n                    py-0.5\n                    rounded\n                    bg-slate-800\n                    border\n                    border-slate-700\n                  ",
+                                                        children: "SQL + NoSQL"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 117,
+                                                        lineNumber: 541,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 113,
+                                                lineNumber: 521,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-slate-300 text-sm sm:text-base leading-relaxed",
-                                                children: "Modeling clean schemas in PostgreSQL and MongoDB, indexing for query speed, and ensuring data integrity."
+                                                className: "\n                  text-slate-300\n                  text-sm\n                  sm:text-base\n                  leading-relaxed\n                ",
+                                                children: "Working with MongoDB and PostgreSQL for application data, schema design, relationships, queries, CRUD operations, and maintaining structured data."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 121,
+                                                lineNumber: 558,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 112,
+                                        lineNumber: 507,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "p-6 rounded-2xl bg-slate-900/60 border border-slate-800/80 backdrop-blur-md",
+                                        className: "\n                p-6\n                rounded-2xl\n                bg-slate-900/60\n                border\n                border-slate-800/80\n                backdrop-blur-md\n                hover:border-slate-700\n                hover:bg-slate-900/80\n                transition-all\n                duration-300\n              ",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex items-center justify-between mb-2",
+                                                className: "\n                  flex\n                  items-center\n                  justify-between\n                  gap-3\n                  mb-2\n                ",
                                                 children: [
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h4", {
-                                                        className: "text-base sm:text-lg font-bold text-white",
-                                                        children: "Modern React & Next.js Platforms"
+                                                        className: "\n                    text-base\n                    sm:text-lg\n                    font-bold\n                    text-white\n                  ",
+                                                        children: "React & Next.js Development"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 129,
+                                                        lineNumber: 596,
                                                         columnNumber: 17
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "text-[11px] font-mono text-slate-400 px-2 py-0.5 rounded bg-slate-800 border border-slate-700",
-                                                        children: "Modern Frontend"
+                                                        className: "\n                    text-[11px]\n                    font-mono\n                    text-slate-400\n                    px-2\n                    py-0.5\n                    rounded\n                    bg-slate-800\n                    border\n                    border-slate-700\n                  ",
+                                                        children: "Frontend"
                                                     }, void 0, false, {
                                                         fileName: "[project]/src/components/Experience.tsx",
-                                                        lineNumber: 132,
+                                                        lineNumber: 607,
                                                         columnNumber: 17
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 128,
+                                                lineNumber: 587,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                                                className: "text-slate-300 text-sm sm:text-base leading-relaxed",
-                                                children: "Crafting fast, accessible, and responsive user experiences using React, Next.js, and utility-first Tailwind CSS."
+                                                className: "\n                  text-slate-300\n                  text-sm\n                  sm:text-base\n                  leading-relaxed\n                ",
+                                                children: "Creating responsive and modern interfaces with React, Next.js, Tailwind CSS, React Router, reusable components, and responsive design principles."
                                             }, void 0, false, {
                                                 fileName: "[project]/src/components/Experience.tsx",
-                                                lineNumber: 136,
+                                                lineNumber: 624,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/src/components/Experience.tsx",
-                                        lineNumber: 127,
+                                        lineNumber: 573,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/src/components/Experience.tsx",
-                                lineNumber: 79,
+                                lineNumber: 372,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Experience.tsx",
-                        lineNumber: 73,
+                        lineNumber: 348,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/Experience.tsx",
-                lineNumber: 20,
+                lineNumber: 77,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/Experience.tsx",
-        lineNumber: 5,
+        lineNumber: 10,
         columnNumber: 5
     }, this);
 }

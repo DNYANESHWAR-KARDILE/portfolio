@@ -1974,6 +1974,16 @@
       background-color: var(--color-slate-800);
     }
 
+    .hover\:bg-slate-900\/80:hover {
+      background-color: #0f172bcc;
+    }
+
+    @supports (color: color-mix(in lab, red, red)) {
+      .hover\:bg-slate-900\/80:hover {
+        background-color: color-mix(in oklab, var(--color-slate-900) 80%, transparent);
+      }
+    }
+
     .hover\:bg-white\/10:hover {
       background-color: #ffffff1a;
     }
@@ -2024,6 +2034,10 @@
   }
 
   @media (min-width: 40rem) {
+    .sm\:mb-14 {
+      margin-bottom: calc(var(--spacing) * 14);
+    }
+
     .sm\:w-auto {
       width: auto;
     }
@@ -2050,6 +2064,10 @@
 
     .sm\:gap-8 {
       gap: calc(var(--spacing) * 8);
+    }
+
+    .sm\:p-7 {
+      padding: calc(var(--spacing) * 7);
     }
 
     .sm\:p-8 {
