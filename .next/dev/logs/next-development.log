@@ -1,0 +1,29 @@
+{"timestamp":"00:00:01.052","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:03.722","source":"Server","level":"ERROR","message":"⨯ ReferenceError: Github is not defined"}
+{"timestamp":"00:00:04.268","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:04.441","source":"Browser","level":"ERROR","message":"Uncaught ReferenceError: Github is not defined\n    at Projects (src/components/Projects.tsx:258:18)\n  \u001b[90m256 |\u001b[0m                 className=\u001b[32m\"inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-white text-xs font-sem...\u001b[0m\n  \u001b[90m257 |\u001b[0m               >\n\u001b[31m\u001b[1m>\u001b[0m \u001b[90m258 |\u001b[0m                 <\u001b[33mGithub\u001b[0m className=\u001b[32m\"w-4 h-4\"\u001b[0m />\n  \u001b[90m    |\u001b[0m                  \u001b[31m\u001b[1m^\u001b[0m\n  \u001b[90m259 |\u001b[0m                 <span>\u001b[33mSource\u001b[0m \u001b[33mCode\u001b[0m</span>\n  \u001b[90m260 |\u001b[0m               </a>\n  \u001b[90m261 |\u001b[0m               <a"}
+{"timestamp":"00:00:04.442","source":"Server","level":"ERROR","message":"[browser] \"\\u001b[31mUncaught ReferenceError: Github is not defined\\u001b[39m\\n\\u001b[31m    at Projects (src/components/Projects.tsx:258:18)\\u001b[39m\\n  \\u001b[90m256 |\\u001b[0m                 className=\\u001b[32m\\\"inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-slate-800 hover:bg-slate-700 text-white text-xs font-sem...\\u001b[0m\\n  \\u001b[90m257 |\\u001b[0m               >\\n\\u001b[31m\\u001b[1m>\\u001b[0m \\u001b[90m258 |\\u001b[0m                 <\\u001b[33mGithub\\u001b[0m className=\\u001b[32m\\\"w-4 h-4\\\"\\u001b[0m />\\n  \\u001b[90m    |\\u001b[0m                  \\u001b[31m\\u001b[1m^\\u001b[0m\\n  \\u001b[90m259 |\\u001b[0m                 <span>\\u001b[33mSource\\u001b[0m \\u001b[33mCode\\u001b[0m</span>\\n  \\u001b[90m260 |\\u001b[0m               </a>\\n  \\u001b[90m261 |\\u001b[0m               <a\""}
+{"timestamp":"00:00:23.167","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:04:15.845","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:04:21.129","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:04:21.758","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:07:58.428","source":"Server","level":"LOG","message":"✓ Compiled in 38ms"}
+{"timestamp":"00:08:50.088","source":"Server","level":"LOG","message":"✓ Compiled in 25ms"}
+{"timestamp":"00:08:53.602","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:08:56.151","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:08:56.814","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:08:57.513","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:09:27.122","source":"Server","level":"LOG","message":"✓ Compiled in 88ms"}
+{"timestamp":"00:12:31.072","source":"Server","level":"LOG","message":"✓ Compiled in 52ms"}
+{"timestamp":"00:13:00.477","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:13:45.841","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:14:03.069","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:14:03.982","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:14:05.232","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:14:06.578","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:14:07.254","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:14:07.907","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:14:08.517","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:14:09.121","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:14:27.428","source":"Server","level":"LOG","message":"✓ Compiled in 39ms"}
+{"timestamp":"00:14:35.342","source":"Server","level":"LOG","message":"✓ Compiled in 21ms"}

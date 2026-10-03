@@ -1,0 +1,3 @@
+module.exports=[27572,a=>{"use strict";var b=a.i(7997);a.s(["default",0,function({children:a}){return(0,b.jsx)("html",{lang:"en",children:(0,b.jsx)("body",{className:"antialiased selection:bg-amber-400 selection:text-slate-950",children:a})})},"metadata",0,{title:"Dnyaneshwar Kardile | Full Stack Developer",description:"Portfolio of Dnyaneshwar Kardile, Computer Engineering student at Savitribai Phule Pune University (SPPU) and Full Stack Developer skilled in React, Next.js, Node.js, Express, MongoDB, and PostgreSQL.",icons:{icon:"/images/profile/dnyaneshwar.jpeg"}}])},50645,function(a){a.n(a.i(27572))}];
+
+//# sourceMappingURL=src_app_layout_tsx_0r5yz5t._.js.map
