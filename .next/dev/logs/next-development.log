@@ -5,3 +5,6 @@
 {"timestamp":"00:00:36.680","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
 {"timestamp":"00:08:53.160","source":"Server","level":"LOG","message":"  Reload env: .env"}
 {"timestamp":"00:09:55.974","source":"Server","level":"LOG","message":"✓ Compiled in 52ms"}
+{"timestamp":"00:17:09.834","source":"Server","level":"LOG","message":"  Reload env: .env"}
+{"timestamp":"00:17:09.956","source":"Server","level":"LOG","message":"✓ Compiled in 26ms"}
+{"timestamp":"00:18:11.848","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}

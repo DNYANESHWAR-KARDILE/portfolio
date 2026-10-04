@@ -3,12 +3,15 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://dnyaneshwar-kardile.vercel.app"),
+
   title: {
     default: "Dnyaneshwar Kardile | Full Stack Developer",
     template: "%s | Dnyaneshwar Kardile",
   },
+
   description:
     "Portfolio of Dnyaneshwar Kardile, a Computer Engineering Student at Savitribai Phule Pune University (SPPU) and Full Stack Developer based in Pune, India. Specializing in modern web applications using React, Next.js, Node.js, PostgreSQL, and MongoDB.",
+
   keywords: [
     "Dnyaneshwar Kardile",
     "Dnyaneshwar Kardile developer",
@@ -25,17 +28,25 @@ export const metadata: Metadata = {
     "MongoDB",
     "Computer Engineering SPPU",
   ],
+
   authors: [
     {
       name: "Dnyaneshwar Kardile",
       url: "https://dnyaneshwar-kardile.vercel.app",
     },
   ],
+
   creator: "Dnyaneshwar Kardile",
   publisher: "Dnyaneshwar Kardile",
+
   alternates: {
     canonical: "https://dnyaneshwar-kardile.vercel.app",
   },
+
+  verification: {
+    google: "-LZsotRVRdCPHibx3k1hl4cEwypKWREVtLzUkg3RXgs",
+  },
+
   openGraph: {
     type: "website",
     locale: "en_US",
@@ -44,6 +55,7 @@ export const metadata: Metadata = {
     title: "Dnyaneshwar Kardile | Full Stack Developer",
     description:
       "Portfolio of Dnyaneshwar Kardile, a Computer Engineering Student at SPPU and Full Stack Developer based in Pune, India. Specializing in modern web applications using React, Next.js, Node.js, PostgreSQL, and MongoDB.",
+
     images: [
       {
         url: "/images/profile/dnyaneshwar.jpeg",
@@ -53,16 +65,20 @@ export const metadata: Metadata = {
       },
     ],
   },
+
   twitter: {
     card: "summary_large_image",
     title: "Dnyaneshwar Kardile | Full Stack Developer",
     description:
       "Portfolio of Dnyaneshwar Kardile, a Computer Engineering Student at SPPU and Full Stack Developer based in Pune, India. Specializing in modern web applications using React, Next.js, Node.js, PostgreSQL, and MongoDB.",
+
     images: ["/images/profile/dnyaneshwar.jpeg"],
   },
+
   robots: {
     index: true,
     follow: true,
+
     googleBot: {
       index: true,
       follow: true,
@@ -71,6 +87,7 @@ export const metadata: Metadata = {
       "max-snippet": -1,
     },
   },
+
   icons: {
     icon: "/images/profile/dnyaneshwar.jpeg",
     apple: "/images/profile/dnyaneshwar.jpeg",
@@ -86,24 +103,33 @@ export default function RootLayout({
   const personJsonLd = {
     "@context": "https://schema.org",
     "@type": "Person",
+
     name: "Dnyaneshwar Kardile",
     givenName: "Dnyaneshwar",
     familyName: "Kardile",
+
     jobTitle: "Full Stack Developer",
+
     description:
       "Full Stack Developer and Computer Engineering student at Savitribai Phule Pune University (SPPU) based in Pune, India, specializing in React, Next.js, Node.js, PostgreSQL, and MongoDB.",
+
     url: "https://dnyaneshwar-kardile.vercel.app",
-    image: "https://dnyaneshwar-kardile.vercel.app/images/profile/dnyaneshwar.jpeg",
+
+    image:
+      "https://dnyaneshwar-kardile.vercel.app/images/profile/dnyaneshwar.jpeg",
+
     address: {
       "@type": "PostalAddress",
       addressLocality: "Pune",
       addressRegion: "Maharashtra",
       addressCountry: "India",
     },
+
     alumniOf: {
       "@type": "CollegeOrUniversity",
       name: "Savitribai Phule Pune University (SPPU)",
     },
+
     knowsAbout: [
       "React",
       "Next.js",
@@ -116,6 +142,7 @@ export default function RootLayout({
       "Tailwind CSS",
       "Full Stack Development",
     ],
+
     sameAs: [
       "https://github.com/DNYANESHWAR-KARDILE",
       "https://www.linkedin.com/in/dnyaneshwar-u-kardile-9644bb379",
@@ -127,9 +154,12 @@ export default function RootLayout({
       <head>
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(personJsonLd) }}
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(personJsonLd),
+          }}
         />
       </head>
+
       <body className="antialiased selection:bg-amber-400 selection:text-slate-950">
         {children}
       </body>

@@ -45,7 +45,7 @@ function Contact() {
                     Accept: "application/json"
                 },
                 body: JSON.stringify({
-                    access_key: ("TURBOPACK compile-time value", "YOUR_WEB3FORMS_ACCESS_KEY"),
+                    access_key: ("TURBOPACK compile-time value", "de10fc1f-5cd5-43b6-a37e-58f30fbf03e0"),
                     name: formData.name,
                     email: formData.email,
                     subject: formData.subject || "New Message from Portfolio",
