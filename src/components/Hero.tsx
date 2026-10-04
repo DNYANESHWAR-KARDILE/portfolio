@@ -63,7 +63,7 @@ export default function Hero() {
                 text-lg
                 sm:text-xl
                 mb-7
-                mt-8
+                mt-20
               "
             >
               Hi, I'm
@@ -110,7 +110,8 @@ export default function Hero() {
                 mb-7
               "
             >
-              Computer Engineering student and Full Stack Developer who builds
+              Computer Engineering student at Savitribai Phule Pune University (SPPU)
+              and Full Stack Developer based in Pune, India, building
               modern, scalable web applications using React, Next.js, Node.js,
               Express.js, MongoDB, and PostgreSQL. I enjoy turning ideas into
               responsive, user-focused, and production-ready digital experiences.
@@ -310,7 +311,9 @@ export default function Hero() {
 
               {/* LinkedIn */}
               <a
-                href="#"
+                href="https://www.linkedin.com/in/dnyaneshwar-u-kardile-9644bb379"
+                target="_blank"
+                rel="noopener noreferrer"
                 aria-label="LinkedIn"
                 className="
                   w-10

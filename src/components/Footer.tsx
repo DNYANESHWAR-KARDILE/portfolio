@@ -23,31 +23,6 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Quick Links */}
-          <div className="flex flex-wrap justify-center gap-6 sm:gap-8 text-sm text-slate-400 font-medium">
-            <a href="#home" className="hover:text-amber-400 transition-colors">
-              Home
-            </a>
-            <a href="#about" className="hover:text-amber-400 transition-colors">
-              About
-            </a>
-            <a href="#skills" className="hover:text-amber-400 transition-colors">
-              Skills
-            </a>
-            <a href="#projects" className="hover:text-amber-400 transition-colors">
-              Projects
-            </a>
-            <a href="#experience" className="hover:text-amber-400 transition-colors">
-              Experience
-            </a>
-            <a href="#services" className="hover:text-amber-400 transition-colors">
-              Services
-            </a>
-            <a href="#contact" className="hover:text-amber-400 transition-colors">
-              Contact
-            </a>
-          </div>
-
           {/* Socials & Back to Top */}
           <div className="flex items-center gap-3">
             <a
@@ -61,7 +36,7 @@ export default function Footer() {
             </a>
 
             <a
-              href="https://linkedin.com/in/dnyaneshwar-kardile"
+              href="https://www.linkedin.com/in/dnyaneshwar-u-kardile-9644bb379?utm_source=share_via&utm_content=profile&utm_medium=member_android"
               target="_blank"
               rel="noopener noreferrer"
               className="p-3 rounded-xl bg-slate-900 border border-slate-800 text-slate-400 hover:text-blue-400 hover:border-blue-400/50 transition-colors"
@@ -92,9 +67,6 @@ export default function Footer() {
         {/* Bottom Bar: Copyright */}
         <div className="pt-8 flex flex-col sm:flex-row items-center justify-between text-xs sm:text-sm text-slate-400 text-center sm:text-left gap-3">
           <p>© 2026 Dnyaneshwar Kardile. All rights reserved.</p>
-          <p className="font-mono text-xs text-slate-400">
-            Designed with dark technical grid aesthetic
-          </p>
         </div>
 
       </div>

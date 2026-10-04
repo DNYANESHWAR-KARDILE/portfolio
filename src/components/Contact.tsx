@@ -19,20 +19,51 @@ export default function Contact() {
   });
 
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [errorMessage, setErrorMessage] = useState("");
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
 
     if (!formData.name || !formData.email || !formData.message) return;
 
-    setIsSubmitted(true);
+    setIsSubmitting(true);
+    setErrorMessage("");
 
-    setFormData({
-      name: "",
-      email: "",
-      subject: "",
-      message: "",
-    });
+    try {
+      const response = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          access_key: process.env.NEXT_PUBLIC_WEB3FORMS_ACCESS_KEY,
+          name: formData.name,
+          email: formData.email,
+          subject: formData.subject || "New Message from Portfolio",
+          message: formData.message,
+        }),
+      });
+
+      const result = await response.json();
+
+      if (result.success) {
+        setIsSubmitted(true);
+        setFormData({
+          name: "",
+          email: "",
+          subject: "",
+          message: "",
+        });
+      } else {
+        setErrorMessage("Something went wrong. Please try again.");
+      }
+    } catch {
+      setErrorMessage("Something went wrong. Please try again.");
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   return (
@@ -279,7 +310,7 @@ export default function Contact() {
                       font-semibold
                     "
                   >
-                    Pune / Nashik, Maharashtra, India
+                   Nashik, Maharashtra, India
                   </span>
                 </div>
               </div>
@@ -393,7 +424,7 @@ export default function Contact() {
 
               {/* LinkedIn */}
               <a
-                href="https://linkedin.com/in/dnyaneshwar-kardile"
+                href="https://www.linkedin.com/in/dnyaneshwar-u-kardile-9644bb379?utm_source=share_via&utm_content=profile&utm_medium=member_android"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="
@@ -421,24 +452,6 @@ export default function Contact() {
               </a>
 
             </div>
-          </div>
-
-          {/* Quick Notice */}
-          <div
-            className="
-              mt-8
-              p-4
-              rounded-xl
-              bg-amber-400/5
-              border
-              border-amber-400/20
-              text-xs
-              text-amber-200/90
-              leading-relaxed
-            "
-          >
-            💡 Currently open for software developer internships and full
-            stack web projects. Feel free to connect!
           </div>
         </div>
 
@@ -521,7 +534,10 @@ export default function Contact() {
               </p>
 
               <button
-                onClick={() => setIsSubmitted(false)}
+                onClick={() => {
+                  setIsSubmitted(false);
+                  setErrorMessage("");
+                }}
                 className="
                   px-4
                   py-2
@@ -735,9 +751,17 @@ export default function Contact() {
                 />
               </div>
 
+              {/* Error Message */}
+              {errorMessage && (
+                <div className="p-3.5 rounded-xl bg-red-500/10 border border-red-500/20 text-red-400 text-sm">
+                  {errorMessage}
+                </div>
+              )}
+
               {/* Submit */}
               <button
                 type="submit"
+                disabled={isSubmitting}
                 className="
                   w-full
                   sm:w-auto
@@ -750,6 +774,8 @@ export default function Contact() {
                   rounded-xl
                   bg-amber-400
                   hover:bg-amber-300
+                  disabled:opacity-60
+                  disabled:cursor-not-allowed
                   text-slate-950
                   font-bold
                   text-sm
@@ -761,7 +787,7 @@ export default function Contact() {
               >
                 <Send className="w-4 h-4" />
 
-                <span>Send Message</span>
+                <span>{isSubmitting ? "Sending..." : "Send Message"}</span>
               </button>
 
             </form>

@@ -28,7 +28,7 @@ export default function Projects() {
           <div className="relative aspect-video w-full bg-slate-950 overflow-hidden">
             <Image
               src="/images/projects/aegis-trace.jpg"
-              alt="AegisTrace Blockchain Investigation"
+              alt="AegisTrace Blockchain Forensics Platform developed by Dnyaneshwar Kardile"
               fill
               className="object-cover hover:scale-105 transition-transform duration-500"
             />
@@ -41,7 +41,7 @@ export default function Projects() {
           <div className="p-6 flex-1 flex flex-col justify-between">
             <div>
               <h3 className="text-xl font-bold text-white mb-2">
-                AegisTrace — Blockchain Forensics Platform
+                ShadowTrace — Blockchain Forensics Platform
               </h3>
               <p className="text-slate-300 text-sm leading-relaxed mb-4">
                 Blockchain transaction tracing and entity profiling platform developed for digital asset forensics. Analyzes multi-hop fund flows across blockchain networks, clusters wallet addresses, and visualizes forensic transaction graphs to track illicit digital asset movements.
@@ -88,7 +88,7 @@ export default function Projects() {
           <div className="relative aspect-video w-full bg-slate-950 overflow-hidden">
             <Image
               src="/images/projects/hostel-gate-pass.jpg"
-              alt="Hostel Gate Pass Management System"
+              alt="Hostel Gate Pass Management System developed by Dnyaneshwar Kardile"
               fill
               className="object-cover hover:scale-105 transition-transform duration-500"
             />
@@ -148,7 +148,7 @@ export default function Projects() {
           <div className="relative aspect-video w-full bg-slate-950 overflow-hidden">
             <Image
               src="/images/projects/online-shopping.jpg"
-              alt="Online Shopping Management System"
+              alt="Online Shopping Management System developed by Dnyaneshwar Kardile"
               fill
               className="object-cover hover:scale-105 transition-transform duration-500"
             />
@@ -208,7 +208,7 @@ export default function Projects() {
           <div className="relative aspect-video w-full bg-slate-950 overflow-hidden">
             <Image
               src="/images/projects/sky-glass.png"
-              alt="Sky Glass Weather Application"
+              alt="Sky Glass Modern Weather Web Application developed by Dnyaneshwar Kardile"
               fill
               className="object-cover hover:scale-105 transition-transform duration-500"
             />
