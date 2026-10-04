@@ -103,7 +103,7 @@ export default function About() {
             <div className="flex justify-between items-center border-b border-slate-800 pb-3 gap-4">
               <span className="text-slate-400">Location</span>
               <span className="text-slate-200 font-medium text-right">
-                Pune / Nashik, India
+                Nashik, India
               </span>
             </div>
 
