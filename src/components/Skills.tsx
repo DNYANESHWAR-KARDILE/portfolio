@@ -99,9 +99,6 @@ export default function Skills() {
             <span className="px-3 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 text-xs font-medium">
               JWT Auth
             </span>
-            <span className="px-3 py-1.5 rounded-lg bg-slate-800 border border-slate-700 text-slate-300 text-xs font-medium">
-              FastAPI / Python
-            </span>
           </div>
         </div>
 

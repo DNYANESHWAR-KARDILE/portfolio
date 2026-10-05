@@ -780,7 +780,7 @@ function Navbar() {
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                href: "/resume.pdf",
+                                href: "/resume/Dnyaneshwar_Kardile_Resume.pdf",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 className: "flex items-center gap-2 px-4 py-2 rounded-xl bg-amber-400 text-slate-950 font-semibold hover:bg-amber-300 transition-colors text-xs sm:text-sm shadow-sm",
@@ -920,7 +920,7 @@ function Navbar() {
                         columnNumber: 11
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                        href: "/resume.pdf",
+                        href: "/resume/Dnyaneshwar_Kardile_Resume.pdf",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         onClick: ()=>setMobileMenuOpen(false),

@@ -1,10 +1,2 @@
-{"timestamp":"00:00:00.513","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:01.501","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:18.570","source":"Server","level":"WARN","message":"⚠ Blocked cross-origin request to Next.js dev resource /_next/hmr from \"10.101.138.210\".\nCross-origin access to Next.js dev resources is blocked by default for safety.\n\nTo allow this host in development, add it to \"allowedDevOrigins\" in next.config.js and restart the dev server:\n\n// next.config.js\nmodule.exports = {\n  allowedDevOrigins: ['10.101.138.210'],\n}\n\nRead more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins"}
-{"timestamp":"00:00:18.632","source":"Server","level":"WARN","message":"⚠ Blocked cross-origin request to Next.js dev resource /__nextjs_font/geist-latin.woff2 from \"10.101.138.210\".\nCross-origin access to Next.js dev resources is blocked by default for safety.\n\nTo allow this host in development, add it to \"allowedDevOrigins\" in next.config.js and restart the dev server:\n\n// next.config.js\nmodule.exports = {\n  allowedDevOrigins: ['10.101.138.210'],\n}\n\nRead more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins"}
-{"timestamp":"00:00:36.680","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:08:53.160","source":"Server","level":"LOG","message":"  Reload env: .env"}
-{"timestamp":"00:09:55.974","source":"Server","level":"LOG","message":"✓ Compiled in 52ms"}
-{"timestamp":"00:17:09.834","source":"Server","level":"LOG","message":"  Reload env: .env"}
-{"timestamp":"00:17:09.956","source":"Server","level":"LOG","message":"✓ Compiled in 26ms"}
-{"timestamp":"00:18:11.848","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:00.833","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:04.952","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}

@@ -110,11 +110,7 @@ export default function Hero() {
                 mb-7
               "
             >
-              Computer Engineering student at Savitribai Phule Pune University (SPPU)
-              and Full Stack Developer based in Pune, India, building
-              modern, scalable web applications using React, Next.js, Node.js,
-              Express.js, MongoDB, and PostgreSQL. I enjoy turning ideas into
-              responsive, user-focused, and production-ready digital experiences.
+              Computer Engineering student at Savitribai Phule Pune University (SPPU) and Full Stack Developer based in Maharashtra, India. I build modern, scalable web applications using React, Next.js, Node.js, Express.js, MongoDB, and PostgreSQL. I enjoy turning ideas into responsive, user-focused, and production-ready digital experiences while continuously learning and exploring new technologies.
             </p>
 
             {/* =====================================================
@@ -195,7 +191,7 @@ export default function Hero() {
 
               {/* CV */}
               <a
-                href="/resume.pdf"
+                href="/resume/Dnyaneshwar_Kardile_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="

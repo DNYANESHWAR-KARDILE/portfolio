@@ -46,7 +46,7 @@ export default function Navbar() {
 
           {/* Resume CTA */}
           <a
-            href="/resume.pdf"
+            href="/resume/Dnyaneshwar_Kardile_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-4 py-2 rounded-xl bg-amber-400 text-slate-950 font-semibold hover:bg-amber-300 transition-colors text-xs sm:text-sm shadow-sm"
@@ -121,7 +121,7 @@ export default function Navbar() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/resume/Dnyaneshwar_Kardile_Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             onClick={() => setMobileMenuOpen(false)}
