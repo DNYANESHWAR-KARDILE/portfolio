@@ -56,7 +56,7 @@ export default function Projects() {
                   TypeScript
                 </span>
                 <span className="px-2.5 py-1 rounded-md bg-slate-800/80 border border-slate-700/60 text-xs text-slate-300">
-                  FastAPI
+
                 </span>
                 <span className="px-2.5 py-1 rounded-md bg-slate-800/80 border border-slate-700/60 text-xs text-slate-300">
                   PostgreSQL
@@ -259,7 +259,7 @@ export default function Projects() {
                 <span>Source Code</span>
               </a>
               <a
-                href="https://sky-glasss.netlify.app/"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-4 py-2 rounded-lg bg-amber-400 hover:bg-amber-300 text-slate-950 text-xs font-bold transition-colors"
